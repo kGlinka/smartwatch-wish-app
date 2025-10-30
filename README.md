@@ -2,7 +2,7 @@
 
 ## Obecne Widoki
 - Widok główny aplikacji wraz z życzeniami użytkownika oraz możliwością filtracji życzeń
-- Widok konkretnego życzenia wraz z oferatmi wykonanai go od innych użytkowników
+- Widok konkretnego życzenia wraz z oferatmi wykonania go od innych użytkowników
 - Widok czatu z danym użytkownikiem
 
 ## Zrzuty ekranu
